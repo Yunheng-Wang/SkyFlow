@@ -1,0 +1,4 @@
+data/traffic_analysis.mov
+data/traffic_analysis_result.mov
+data/traffic_analysis.pt
+.idea/
